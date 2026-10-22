@@ -1,0 +1,10 @@
+-- PLANTILLA: reemplazar la fecha antes de ejecutar.
+-- No activar hasta completar privacidad.html y comprobar 03_retention.sql.
+-- La fecha incluye zona horaria argentina (-03:00). No usar una fecha inventada.
+-- update trivia_private.settings set
+--   event_end_at = 'AAAA-MM-DDTHH:MM:SS-03:00'::timestamptz,
+--   privacy_ready = true,
+--   enabled = true
+-- where id=true;
+-- Para cerrar el registro y detener nuevas partidas:
+-- update trivia_private.settings set enabled=false where id=true;

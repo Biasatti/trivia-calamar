@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "text": "¿Cuáles son los colores tradicionales de Platense?",
+    "options": [
+      "Negro y blanco",
+      "Marrón y blanco",
+      "Bordó y blanco",
+      "Marrón y amarillo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "text": "¿Qué día cumple años Platense?",
+    "options": [
+      "25 de mayo",
+      "9 de julio",
+      "20 de junio",
+      "25 de noviembre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "difficulty": "medium",
+    "text": "¿En qué año se fundó el Club Atlético Platense?",
+    "options": [
+      "1895",
+      "1910",
+      "1921",
+      "1905"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "difficulty": "medium",
+    "text": "¿De dónde viene el nombre “Platense”?",
+    "options": [
+      "De un barco",
+      "De una estación de tren",
+      "De un stud de carreras de caballos",
+      "De un diario"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "text": "¿Qué famoso cantante de tango era hincha de Platense?",
+    "options": [
+      "Carlos Gardel",
+      "Roberto “Polaco” Goyeneche",
+      "Julio Sosa",
+      "Aníbal Troilo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "difficulty": "medium",
+    "text": "¿Qué inspiró el apodo “Calamar” de Platense?",
+    "options": [
+      "El barro que cubría a los jugadores",
+      "Una mascota de los fundadores",
+      "Un restaurante del barrio",
+      "Un barco pesquero"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "text": "¿Cómo se llama el estadio de fútbol de Platense?",
+    "options": [
+      "Ciudad de Caseros",
+      "República de Saavedra",
+      "Ciudad de Vicente López",
+      "José Dellagiovanna"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "text": "¿Junto a qué avenida está el estadio de fútbol de Platense?",
+    "options": [
+      "Del Libertador",
+      "General Paz",
+      "Cabildo",
+      "Juan B. Justo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "text": "¿En qué año se inauguró el estadio Ciudad de Vicente López?",
+    "options": [
+      "1965",
+      "1974",
+      "1982",
+      "1979"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10,
+    "difficulty": "hard",
+    "text": "¿Contra qué equipo jugó Platense al inaugurar el estadio Ciudad de Vicente López?",
+    "options": [
+      "Gimnasia y Esgrima La Plata",
+      "Tigre",
+      "Atlanta",
+      "Chacarita"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "text": "¿En qué esquina estaba la histórica cancha de Platense anterior a la de Vicente López?",
+    "options": [
+      "Cabildo y Juramento",
+      "Manuela Pedraza y Crámer",
+      "Balbín y General Paz",
+      "Congreso y Zapiola"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "difficulty": "hard",
+    "text": "¿En qué año jugó Platense por primera vez en Primera División?",
+    "options": [
+      "1905",
+      "1923",
+      "1931",
+      "1913"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "text": "¿Qué torneo ganó Platense para conseguir su primer título de Primera División?",
+    "options": [
+      "Apertura 2025",
+      "Clausura 2024",
+      "Copa Argentina 2023",
+      "Copa de la Liga 2024"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "text": "¿A qué equipo le ganó Platense la final del Apertura 2025?",
+    "options": [
+      "River",
+      "Racing",
+      "Huracán",
+      "Vélez"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "text": "¿Quién hizo el gol de Platense en la final del Apertura 2025 contra Huracán?",
+    "options": [
+      "Vicente Taborda",
+      "Guido Mainero",
+      "Ronaldo Martínez",
+      "Mateo Pellegrino"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "text": "¿Por qué resultado ganó Platense la final del Apertura 2025 contra Huracán?",
+    "options": [
+      "2 a 0",
+      "2 a 1",
+      "3 a 1",
+      "1 a 0"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "text": "¿En qué provincia se jugó la final del Apertura 2025 entre Platense y Huracán?",
+    "options": [
+      "Córdoba",
+      "Mendoza",
+      "Santiago del Estero",
+      "Santa Fe"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "difficulty": "medium",
+    "text": "¿A quién eliminó Platense en los octavos de final del Apertura 2025?",
+    "options": [
+      "Racing",
+      "Boca",
+      "Independiente",
+      "Estudiantes de La Plata"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "difficulty": "medium",
+    "text": "¿En qué cancha eliminó Platense a River en los cuartos de final del Apertura 2025?",
+    "options": [
+      "Ciudad de Vicente López",
+      "Mario Alberto Kempes",
+      "La Bombonera",
+      "El Monumental"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 20,
+    "difficulty": "medium",
+    "text": "¿Cómo ganó Platense el cruce contra River en los cuartos de final del Apertura 2025?",
+    "options": [
+      "Ganando en el alargue",
+      "Por penales",
+      "Ganando 1 a 0 en los 90 minutos",
+      "Ganando 2 a 1 en los 90 minutos"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "difficulty": "medium",
+    "text": "¿A quién le ganó Platense en la semifinal del Apertura 2025?",
+    "options": [
+      "Independiente",
+      "Vélez",
+      "San Lorenzo",
+      "Boca"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "text": "¿Qué dupla técnica dirigió a Platense en el título del Apertura 2025?",
+    "options": [
+      "Medero-Marini",
+      "Orsi-Gómez",
+      "Fatur-Musso",
+      "Hrabina-Sánchez"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "difficulty": "medium",
+    "text": "¿En qué fecha se consagró Platense campeón del Apertura 2025?",
+    "options": [
+      "25 de mayo",
+      "9 de julio",
+      "20 de junio",
+      "1 de junio"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 24,
+    "difficulty": "hard",
+    "text": "¿Qué número de camiseta usaba Vicente Taborda en Platense durante el Apertura 2025?",
+    "options": [
+      "10",
+      "7",
+      "18",
+      "21"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "text": "¿En qué año volvió Platense a Primera División tras su larga etapa en el ascenso?",
+    "options": [
+      "2018",
+      "2019",
+      "2021",
+      "2022"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "text": "¿A qué equipo venció Platense en la final por el ascenso a Primera División de 2021?",
+    "options": [
+      "Sarmiento de Junín",
+      "Estudiantes de Río Cuarto",
+      "Atlético de Rafaela",
+      "Estudiantes de Caseros"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "text": "¿Cómo se definió la final por el ascenso de 2021 entre Platense y Estudiantes de Río Cuarto?",
+    "options": [
+      "Por penales",
+      "En el alargue",
+      "Con un gol de oro",
+      "Con una victoria en los 90 minutos"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "difficulty": "hard",
+    "text": "¿En qué estadio jugó Platense la final por el ascenso a Primera División de 2021?",
+    "options": [
+      "Mario Alberto Kempes",
+      "Ciudad de Lanús",
+      "Julio Humberto Grondona",
+      "Marcelo Bielsa"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "text": "¿Quién hizo el gol de Platense en los 90 minutos de la final por el ascenso de 2021?",
+    "options": [
+      "Facundo Curuchet",
+      "Joaquín Susvielles",
+      "Matías Tissera",
+      "Mauro Bogado"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "difficulty": "medium",
+    "text": "¿Quién era el entrenador de Platense en el ascenso a Primera División de fútbol de 2021?",
+    "options": [
+      "Fernando Ruiz",
+      "Juan Manuel Llop",
+      "Omar De Felippe",
+      "Martín Palermo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "text": "¿En qué año logró Platense su primer ascenso a la Liga Nacional de Básquet?",
+    "options": [
+      "2015",
+      "2017",
+      "2019",
+      "2021"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "difficulty": "hard",
+    "text": "¿A qué equipo venció Platense en la final de la Liga Argentina de Básquet de 2019?",
+    "options": [
+      "San Isidro de San Francisco",
+      "Atenas de Córdoba",
+      "Instituto",
+      "Barrio Parque"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "text": "¿Qué torneo ganó Platense para ascender a la Liga Nacional de Básquet en 2019?",
+    "options": [
+      "Liga Federal",
+      "Liga Metropolitana",
+      "Súper 20",
+      "Liga Argentina"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 34,
+    "difficulty": "hard",
+    "text": "¿Quién dirigía a Platense cuando ascendió a la Liga Nacional de Básquet en 2019?",
+    "options": [
+      "Julio Lamas",
+      "Alejandro “Cholo” Vázquez",
+      "Sergio Hernández",
+      "Sebastián Ginóbili"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "difficulty": "hard",
+    "text": "¿Qué jugador de Platense fue elegido MVP de las finales de la Liga Argentina de Básquet de 2019?",
+    "options": [
+      "Felipe Pais",
+      "Gastón Essengue",
+      "Pablo Bruna",
+      "Cedric Blossom"
+    ],
+    "answer": 2
+  }
+]
